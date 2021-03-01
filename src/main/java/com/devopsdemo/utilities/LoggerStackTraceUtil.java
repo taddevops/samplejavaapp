@@ -2,7 +2,7 @@ package com.devopsdemo.utilities;
 import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
+//added comment line 
 // Class used to log the print stack trace items
 public class LoggerStackTraceUtil {
 
